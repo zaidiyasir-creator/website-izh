@@ -70,7 +70,7 @@ export const partners = [
   {
     id: 2,
     name: "Microsoft",
-    logo: "https://images.unsplash.com/photo-1637464116282-467088ba73cb?w=200&h=100&fit=crop"
+    logo: "/partners/microsoft-logo.png"
   },
   {
     id: 3,
@@ -80,12 +80,12 @@ export const partners = [
   {
     id: 4,
     name: "VMware",
-    logo: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=200&h=100&fit=crop"
+    logo: "/partners/vmware-logo.png"
   },
   {
     id: 5,
-    name: "Palo Alto Networks",
-    logo: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=200&h=100&fit=crop"
+    name: "Cisco",
+    logo: "/partners/cisco-logo.png"
   },
   {
     id: 6,
