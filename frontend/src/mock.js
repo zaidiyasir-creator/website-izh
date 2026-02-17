@@ -65,7 +65,7 @@ export const partners = [
   {
     id: 1,
     name: "Fortinet",
-    logo: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=100&fit=crop"
+    logo: "/partners/fortinet-logo.png"
   },
   {
     id: 2,

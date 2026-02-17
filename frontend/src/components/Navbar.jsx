@@ -43,9 +43,16 @@ export const Navbar = () => {
           <div className="flex-shrink-0">
             <button
               onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-              className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-red-300 bg-clip-text text-transparent hover:opacity-80 transition-opacity"
+              className="flex items-center space-x-3 hover:opacity-90 transition-opacity"
             >
-              izh padu
+              <img 
+                src="/logo.png" 
+                alt="izh padu sdn bhd" 
+                className="h-12 w-auto"
+              />
+              <span className="text-xl font-bold text-gray-900 hidden sm:block">
+                izh padu sdn bhd
+              </span>
             </button>
           </div>
 

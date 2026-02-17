@@ -20,8 +20,15 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
           {/* Company Info */}
           <div className="space-y-4">
-            <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-red-300 bg-clip-text text-transparent">
-              izh padu
+            <div className="flex items-center space-x-3">
+              <img 
+                src="/logo.png" 
+                alt="izh padu sdn bhd" 
+                className="h-10 w-auto"
+              />
+            </div>
+            <h3 className="text-xl font-bold text-white">
+              izh padu sdn bhd
             </h3>
             <p className="text-gray-400 leading-relaxed">
               {companyInfo.tagline}
