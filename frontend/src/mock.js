@@ -74,8 +74,8 @@ export const partners = [
   },
   {
     id: 3,
-    name: "Dell Technologies",
-    logo: "https://images.unsplash.com/photo-1593642633279-1796119d5482?w=200&h=100&fit=crop"
+    name: "Nextcloud",
+    logo: "/partners/nextcloud-logo.png"
   },
   {
     id: 4,
@@ -91,6 +91,11 @@ export const partners = [
     id: 6,
     name: "HPE",
     logo: "/partners/hpe-logo.png"
+  },
+  {
+    id: 7,
+    name: "TrueNAS",
+    logo: "/partners/truenas-logo.webp"
   }
 ];
 
