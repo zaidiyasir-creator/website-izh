@@ -96,6 +96,16 @@ export const partners = [
     id: 7,
     name: "TrueNAS",
     logo: "/partners/truenas-logo.webp"
+  },
+  {
+    id: 8,
+    name: "Aruba",
+    logo: "/partners/aruba-logo.png"
+  },
+  {
+    id: 9,
+    name: "Ubiquiti",
+    logo: "/partners/ubiquiti-logo.png"
   }
 ];
 
