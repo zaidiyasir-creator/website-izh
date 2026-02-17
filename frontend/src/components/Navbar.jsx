@@ -50,7 +50,7 @@ export const Navbar = () => {
                 alt="izh padu sdn bhd" 
                 className="h-12 w-auto"
               />
-              <span className="text-xl font-bold text-gray-900 hidden sm:block">
+              <span className="text-2xl font-bold text-gray-900 hidden sm:block">
                 izh padu sdn bhd
               </span>
             </button>
@@ -68,6 +68,15 @@ export const Navbar = () => {
                 <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-400 group-hover:w-full transition-all duration-300"></span>
               </button>
             ))}
+            <a
+              href="https://cloud.izhpadu.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-700 hover:text-blue-400 font-medium transition-colors duration-200 relative group py-2"
+            >
+              IZH Cloud
+              <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-400 group-hover:w-full transition-all duration-300"></span>
+            </a>
             <Button
               onClick={() => scrollToSection('contact')}
               className="bg-gradient-to-r from-blue-400 to-blue-500 hover:from-blue-500 hover:to-blue-600 text-white px-6 py-2 rounded-lg transition-all duration-300 shadow-md hover:shadow-lg"
@@ -101,6 +110,14 @@ export const Navbar = () => {
                 {link.label}
               </button>
             ))}
+            <a
+              href="https://cloud.izhpadu.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="block w-full text-left text-gray-700 hover:text-blue-400 font-medium py-2 transition-colors"
+            >
+              IZH Cloud
+            </a>
             <Button
               onClick={() => scrollToSection('contact')}
               className="w-full bg-gradient-to-r from-blue-400 to-blue-500 hover:from-blue-500 hover:to-blue-600 text-white py-3 rounded-lg transition-all duration-300"
