@@ -64,18 +64,18 @@ export const services = [
 export const partners = [
   {
     id: 1,
-    name: "Cisco",
-    logo: "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=200&h=100&fit=crop"
+    name: "Fortinet",
+    logo: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=100&fit=crop"
   },
   {
     id: 2,
     name: "Microsoft",
-    logo: "https://images.unsplash.com/photo-1633419461186-7d40a38105ec?w=200&h=100&fit=crop"
+    logo: "https://images.unsplash.com/photo-1637464116282-467088ba73cb?w=200&h=100&fit=crop"
   },
   {
     id: 3,
     name: "Dell Technologies",
-    logo: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=200&h=100&fit=crop"
+    logo: "https://images.unsplash.com/photo-1593642633279-1796119d5482?w=200&h=100&fit=crop"
   },
   {
     id: 4,
@@ -84,8 +84,8 @@ export const partners = [
   },
   {
     id: 5,
-    name: "Fortinet",
-    logo: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=100&fit=crop"
+    name: "Palo Alto Networks",
+    logo: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=200&h=100&fit=crop"
   },
   {
     id: 6,
