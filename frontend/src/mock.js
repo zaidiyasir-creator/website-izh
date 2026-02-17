@@ -65,7 +65,7 @@ export const partners = [
   {
     id: 1,
     name: "Fortinet",
-    logo: "/partners/fortinet-logo-hq.png"
+    logo: "/partners/fortinet-logo.png"
   },
   {
     id: 2,
@@ -90,7 +90,7 @@ export const partners = [
   {
     id: 6,
     name: "HPE",
-    logo: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=200&h=100&fit=crop"
+    logo: "/partners/hpe-logo.png"
   }
 ];
 
