@@ -111,9 +111,9 @@ export const partners = [
 
 export const contactInfo = {
   email: "info@izhpadu.com",
-  whatsapp: "+60123456789",
-  address: "Kuala Lumpur, Malaysia",
-  fullAddress: "Level 10, Menara ABC, Jalan Technology, 50450 Kuala Lumpur, Malaysia",
+  whatsapp: "+60192447224",
+  address: "Kajang, Selangor",
+  fullAddress: "20, Jalan Pinggiran Putra 5/30, Desa Pinggiran Putra, 43000 Kajang, Selangor",
   hours: "Monday - Friday: 9:00 AM - 6:00 PM",
   socialMedia: {
     linkedin: "#",
