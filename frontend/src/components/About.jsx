@@ -25,7 +25,7 @@ export const About = () => {
                 {companyInfo.description}
               </p>
               <p className="text-gray-700 leading-relaxed">
-                With over 15 years of combined experience, we deliver cutting-edge solutions that help businesses 
+                With over 25 years of combined experience, we deliver cutting-edge solutions that help businesses 
                 navigate the complexities of modern technology infrastructure while maintaining the highest standards 
                 of security and reliability.
               </p>
