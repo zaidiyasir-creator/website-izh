@@ -106,6 +106,21 @@ export const partners = [
     id: 9,
     name: "Ubiquiti",
     logo: "/partners/ubiquiti-logo.png"
+  },
+  {
+    id: 10,
+    name: "Extreme Networks",
+    logo: "/partners/extreme-networks-logo.png"
+  },
+  {
+    id: 11,
+    name: "SonicWall",
+    logo: "/partners/sonicwall-logo.png"
+  },
+  {
+    id: 12,
+    name: "Juniper Networks",
+    logo: "/partners/juniper-logo.png"
   }
 ];
 
