@@ -125,7 +125,7 @@ export const contactInfo = {
 export const stats = [
   {
     id: 1,
-    value: "500+",
+    value: "20+",
     label: "Projects Completed"
   },
   {
