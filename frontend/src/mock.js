@@ -7,7 +7,7 @@ export const companyInfo = {
   mission: "Our mission is to empower businesses to stay connected, secure, and future-ready through customized, scalable solutions tailored to today's digital landscape.",
   vision: "To be the leading technology partner for businesses seeking innovative, secure, and scalable infrastructure solutions in the digital era.",
   founded: "2020",
-  expertise: "15+ Years Combined Experience"
+  expertise: "25+ Years Combined Experience"
 };
 
 export const services = [
@@ -130,12 +130,12 @@ export const stats = [
   },
   {
     id: 2,
-    value: "200+",
-    label: "Happy Clients"
+    value: "50+",
+    label: "Enterprise Clients"
   },
   {
     id: 3,
-    value: "15+",
+    value: "25+",
     label: "Years Experience"
   },
   {
