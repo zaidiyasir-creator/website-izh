@@ -31,11 +31,11 @@ Build a technology website for izh padu sdn bhd to engage in network and cyberse
 
 ### Phase 1 - Frontend with Mock Data (December 17, 2026)
 ✅ **Components Created**:
-- Navbar with smooth scroll navigation
+- Navbar with smooth scroll navigation + IZH Cloud external link
 - Hero section with animated gradients and floating cards
 - About section with mission, vision, stats, and core values
 - Services section with 4 service cards (Network, Security, Data Center, Managed Services)
-- Partners section with 6 partner logos and hover effects
+- Partners section with 14 partner logos and hover effects
 - Contact section with email, WhatsApp, and address display
 - Footer with company info, quick links, and social media
 
@@ -50,9 +50,12 @@ Build a technology website for izh padu sdn bhd to engage in network and cyberse
 ✅ **Mock Data (mock.js)**:
 - Company information
 - 4 services with features
-- 6 partner logos (Cisco, Microsoft, Dell, VMware, Fortinet, HPE)
+- 14 partner logos: Fortinet, Microsoft, Nextcloud, VMware, Cisco, HPE, TrueNAS, Aruba, Ubiquiti, Extreme Networks, SonicWall, Juniper Networks, LibreNMS, Ubuntu
 - Contact information (email, WhatsApp, address)
-- Statistics (500+ projects, 200+ clients, 15+ years experience)
+- Statistics (20+ projects, 50+ clients, 25+ years experience)
+
+### February 20, 2025 Update
+✅ Added LibreNMS and Ubuntu logos to partners section (fixed broken image downloads)
 
 ## Prioritized Backlog
 
