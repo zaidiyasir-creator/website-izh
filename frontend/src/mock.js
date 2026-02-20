@@ -131,6 +131,26 @@ export const partners = [
     id: 14,
     name: "Ubuntu",
     logo: "/partners/ubuntu-logo.png"
+  },
+  {
+    id: 15,
+    name: "H3C",
+    logo: "/partners/h3c-logo.png"
+  },
+  {
+    id: 16,
+    name: "Dell",
+    logo: "/partners/dell-logo.png"
+  },
+  {
+    id: 17,
+    name: "Ruijie",
+    logo: "/partners/ruijie-logo.png"
+  },
+  {
+    id: 18,
+    name: "Synology",
+    logo: "/partners/synology-logo.png"
   }
 ];
 
