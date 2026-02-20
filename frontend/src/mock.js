@@ -121,6 +121,16 @@ export const partners = [
     id: 12,
     name: "Juniper Networks",
     logo: "/partners/juniper-logo.png"
+  },
+  {
+    id: 13,
+    name: "LibreNMS",
+    logo: "/partners/librenms-logo.png"
+  },
+  {
+    id: 14,
+    name: "Ubuntu",
+    logo: "/partners/ubuntu-logo.png"
   }
 ];
 
