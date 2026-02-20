@@ -125,7 +125,7 @@ export const partners = [
   {
     id: 13,
     name: "LibreNMS",
-    logo: "/partners/librenms-logo.png"
+    logo: "/partners/librenms-logo.svg"
   },
   {
     id: 14,
