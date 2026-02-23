@@ -139,6 +139,9 @@ export const Footer = () => {
             <p className="text-gray-400 text-sm">
               © {new Date().getFullYear()} izh padu sdn bhd. All rights reserved.
             </p>
+            <p className="text-gray-400 text-sm">
+              Powered by <span className="text-blue-400 font-semibold">IZHPadu</span>
+            </p>
             <div className="flex space-x-6 text-sm text-gray-400">
               <a href="#" className="hover:text-blue-400 transition-colors">Privacy Policy</a>
               <a href="#" className="hover:text-blue-400 transition-colors">Terms of Service</a>
