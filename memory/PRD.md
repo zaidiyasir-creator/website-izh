@@ -56,6 +56,8 @@ Build a technology website for izh padu sdn bhd to engage in network and cyberse
 
 ### February 20, 2025 Update
 ✅ Added LibreNMS and Ubuntu logos to partners section (fixed broken image downloads)
+✅ Added H3C, Dell, Ruijie, and Synology logos to partners section (18 total partners)
+✅ Added "Powered by IZHPadu" branding to footer
 
 ## Prioritized Backlog
 
