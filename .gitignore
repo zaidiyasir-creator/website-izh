@@ -82,3 +82,7 @@ android-sdk/
 # Sensitive files (keep .env files for deployment)
 credentials.json
 token.json
+-e 
+# Environment files
+*.env
+*.env.*
